@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: backlog_system
+Version: 0.0.1
+Summary: Student Backlog Management System
+Author: Admin
+Author-email: admin@example.com
+Requires-Dist: frappe
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,20 @@
+{
+ "background_workers": 1,
+ "db_host": "127.0.0.1",
+ "default_site": "backlog.localhost",
+ "file_watcher_port": 6787,
+ "frappe_user": "avanthika",
+ "gunicorn_workers": 17,
+ "live_reload": true,
+ "rebase_on_pull": false,
+ "redis_cache": "redis://127.0.0.1:13005",
+ "redis_queue": "redis://127.0.0.1:11005",
+ "redis_socketio": "redis://127.0.0.1:12005",
+ "restart_supervisor_on_update": false,
+ "restart_systemd_on_update": false,
+ "serve_default_site": 1,
+ "shallow_clone": true,
+ "socketio_port": 9005,
+ "use_redis_auth": false,
+ "webserver_port": 8005
+}
