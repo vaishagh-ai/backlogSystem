@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -62,3 +62,16 @@ node_modules/
 *.sqlite
 .DS_Store
 >>>>>>> 63b8df5 (table 4.2.1)
+# Frappe / Bench / Project folders to ignore
+frappe-bench/env/
+frappe-bench/logs/
+frappe-bench/sites/
+project/
+backlog_system/
+# Frappe / Bench / Project folders to ignore
+frappe-bench/env/
+frappe-bench/logs/
+frappe-bench/sites/
+project/
+__pycache__/
+*.pyc
